@@ -21,7 +21,16 @@ li a {
 	padding: 4px;
 	text-decoration: none;
 }
-
-li a:hover {
-	background-color: rgb(250,220,220);
+.sliding-u-l-r {
+	text-decoration: none;
+	display: inline-block;
+	border-bottom: 3px solid transparent;
+	width: 0 px;
+	transition: 0.5s ease;
+	white-space: nowrap;
+	height: 25px;
+}
+.sliding-u-l-r:hover {
+	border-bottom: 3px solid pink;
+	width: 200px;
 }
