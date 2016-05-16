@@ -17,3 +17,7 @@ li a {
 	display: block;
 	padding: 8px;
 }
+
+.active {
+	background-color: #4CAF50;
+}
