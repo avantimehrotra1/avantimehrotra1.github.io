@@ -10,5 +10,9 @@ ul {
  margin: 0;
  padding: 0;
  background-color: #dddddd;
-	
+}
+
+li {
+	float: left;
+	display: inline;
 }
