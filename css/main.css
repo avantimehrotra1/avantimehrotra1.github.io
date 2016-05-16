@@ -15,7 +15,10 @@ li {
 
 li a {
 	display: block;
-	padding: 8px;
+	color: black;
+	text-aligh: center;
+	padding: 8px 10px;
+	text-decoration: none;
 }
 
 li a: hover {
