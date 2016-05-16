@@ -1,13 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 body { 
-	background-color: rgb(245,245,245);
+	background-color: rgb(240,240,240);
 }
 ul {
  list-style-type: none;
  margin: 0;
  padding: 0;
  overflow: hidden;
- background-color: gray;
+ background-color: rgb(230,230,230);
 }
 
 li {
