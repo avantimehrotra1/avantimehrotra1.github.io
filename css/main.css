@@ -5,7 +5,7 @@
 body { 
 color: #ffffff; 
 font-family: 'Lato', sans-serif; 
-font-size: 34px; 
+font-size: 24px; 
 font-weight: 300; 
 line-height: 58px; 
 margin: 0 0 8px; }
@@ -26,13 +26,13 @@ a {
 }
 
 .two:hover ~ hr{
-	margin-left: 25%;
+	margin-left: 5%;
 }
 .three:hover ~ hr {
-	margin-left: 50%;
+	margin-left: 15%;
 }
 .four:hover ~ hr {
-	margin-left: 75%;
+	margin-left: 25%;
 }
 
 hr {
