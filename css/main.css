@@ -23,6 +23,7 @@ nav ul li {
 a{ 
  position: relative;
  text-decoration: none;
+ border: none;
  color: rgb(190,190,190);
 }
 
