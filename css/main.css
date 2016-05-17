@@ -19,7 +19,7 @@ nav ul li {
  display: inline-block;
 }
 
-nav ul li a{ 
+a{ 
  position: relative;
  text-decoration: none;
  color: rgb(190,190,190);
@@ -28,18 +28,18 @@ nav ul li a{
  padding-right: 10px;
 }
 
-nav ul li a:after {
+a:after {
 content: "";
 display: inline-block;
 position: absolute;
 left: 0px;
-bottom: -5px;
+bottom: 0px;
 background-color: rgb(255,135,164);
-width: 0;
+width: 0%;
 height: 2px;
-transition: all 0.2s;
+transition: 0.2s;
 }
 
-nav ul li a:hover:after {
+a:hover:after {
 width: 100%;
 }
