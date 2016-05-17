@@ -9,7 +9,7 @@ color: #ffffff;
 font-family: 'Lato', sans-serif; 
 font-size: 14px; 
 font-weight: 300; 
-line-height: 58px; 
+line-height: 100px; 
 margin: 0 0 2px; }
 
 nav ul {
@@ -33,7 +33,7 @@ content: "";
 display: inline-block;
 position: absolute;
 left: 0px;
-bottom: 0px;
+bottom: -3px;
 background-color: rgb(255,135,164);
 width: 0%;
 height: 2px;
