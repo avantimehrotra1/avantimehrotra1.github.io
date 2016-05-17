@@ -1,26 +1,22 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+* {
+	box-sizing: border-box;
+}
 body { 
 	background-color: rgb(240,240,240);
-	font: 100 100% 'Helvetic Neue', Helvetica, Arial;
+	font: 300 100% 'Helvetic Neue', Helvetica, Arial;
 }
-ul {
- list-style-type: none;
- margin: 0;
- padding: 0;
- overflow: hidden;
+ul li {
+ display: inline;
+ text-align: center
  background-color: rgb(230,230,230);
 }
 
-li {
-	float: left;
-}
-
-li a {
+a {
 	display: inline-block;
 	width: 25%;
-	color: white;
-	text-align: center;
 	padding: .75rem 0;
+	margin: 0;
 	text-decoration: none;
 	color: rgb(200, 200, 200);
 }
