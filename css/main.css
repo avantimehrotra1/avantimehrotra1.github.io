@@ -3,15 +3,12 @@
 }
 
 body { 
-color: #d54d7b; 
-font-family: "Great Vibes", cursive; 
-font-size: 25px; 
-line-height: 35px; 
+color: #7c795d; 
+font-family: 'Trocchi', serif; 
+font-size: 45px; 
 font-weight: normal; 
-margin-bottom: 0px; 
-margin-top: 10px; 
-text-align: center; 
-text-shadow: 0 1px 1px #fff; 
+line-height: 48px; 
+margin: 0; 
 }
 
 ul li {
