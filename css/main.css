@@ -39,10 +39,6 @@ height: 3px;
 transition: all 0.4s;
 }
 
-nav ul li a:hover {
-color: rgb(255,135,164);
-}
-
 nav ul li a:hover:after {
 width: 100%;
 }
