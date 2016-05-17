@@ -31,11 +31,11 @@ nav ul li a:after {
 content: "";
 display: inline-block;
 position: absolute;
-left: 10px;
+left: 0px;
 bottom: -10px;
 background-color: rgb(255,135,164);
 width: 0;
-height: 3px;
+height: 1px;
 transition: all 0.4s;
 }
 
