@@ -14,7 +14,6 @@ margin: 0 0 2px; }
 
 nav ul {
  list-stlye: none;
- font-size: 2em;
 }
 nav ul li {
  display: inline-block;
@@ -26,18 +25,15 @@ nav ul li a{
  color: rgb(190,190,190);
  margin: 20px
  padding-right: 10px;
- background-color: rgb(255,135,164);
 }
 
 nav ul li a:after {
 content: "";
 display: inline-block;
 position: absolute;
-left: 0px;
-bottom: -10px;
-background-color: rgb(255,135,164);
+left: 10px;
 width: 0;
-height: 3px;
+height: 1px;
 transition: all 0.4s;
 }
 
