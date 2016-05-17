@@ -41,7 +41,7 @@ a:after {
   background-color: rgb(255,135,164);
   width: 0%;
   height: 2px;
-  transition: 0.1s
+  transition: 0.3s
 }
 
 a:hover:after { 
@@ -52,5 +52,5 @@ hr {
   width: 0%;
   background:  rgb(255,135,164);
   border: none;
-  transition: .1s;
+  transition: .3s;
 }
