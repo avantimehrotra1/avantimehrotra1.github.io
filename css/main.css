@@ -32,8 +32,10 @@ content: "";
 display: inline-block;
 position: absolute;
 left: 10px;
+bottom: -10px;
+background-color: rgb(255,135,164);
 width: 0;
-height: 1px;
+height: 3px;
 transition: all 0.4s;
 }
 
@@ -42,5 +44,5 @@ color: rgb(255,135,164);
 }
 
 nav ul li a:hover:after {
-	width: 100%;
+width: 100%;
 }
