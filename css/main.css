@@ -16,16 +16,15 @@ li {
 }
 
 li a {
-	display: block;
+	display: inline-block;
+	width: 25%;
 	color: white;
 	text-align: center;
-	padding: 6px;
+	padding: .75rem 0;
 	text-decoration: none;
+	color: rgb(200, 200, 200);
 }
 
-.one:hover ~ hr{
-	margin-left: 50%;
-}
 .two:hover ~ hr{
 	margin-left: 25%;
 }
@@ -42,6 +41,5 @@ hr {
 	margin: 0;
 	background: rgb(250,220,220);
 	border: none;
-	transition: .3s;
-	ease-in-out
+	transition: .3s ease-in-out;
 }
