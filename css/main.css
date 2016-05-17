@@ -28,7 +28,7 @@ a{
 
 a:after {
 content: "";
-display: block;
+display: inline-block;
 position: absolute;
 left: 0px;
 bottom: -3px;
