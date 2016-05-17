@@ -26,13 +26,13 @@ a {
 }
 
 .two:hover ~ hr{
-	margin-left: 0%;
-}
-.three:hover ~ hr {
 	margin-left: 25%;
 }
-.four:hover ~ hr {
+.three:hover ~ hr {
 	margin-left: 50%;
+}
+.four:hover ~ hr {
+	margin-left: 75%;
 }
 
 hr {
