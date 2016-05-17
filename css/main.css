@@ -35,7 +35,7 @@ bottom: -3px;
 background-color: rgb(255,135,164);
 width: 0%;
 height: 2px;
-transition: width 0.2s;
+transition: 0.2s;
 }
 
 a:hover:after {
