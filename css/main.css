@@ -49,15 +49,4 @@ a:after {
   transition: 0.3s
 }
 
-a:hover:after { 
-  width: 100%;
-}
 
-
-hr {
-  height: .5rem;
-  width: 0%;
-  background:  rgb(255,86,117);
-  border: none;
-  transition: .3s;
-}
