@@ -49,4 +49,6 @@ a:after {
   transition: 0.3s
 }
 
-
+a:hover:after { 
+  width: 100%;
+}
