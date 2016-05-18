@@ -9,7 +9,7 @@ font-size: 14px;
 font-weight: 300; 
 line-height: 0px; 
 margin: 0 0 2px; 
-background: url(https://http://avantimehrotra1.github.io/Documents/CS Side Projects/Website/collagepics.jpg);
+background-image: url('/css/collagepics.jpg'); 
 }
 
 .container {
