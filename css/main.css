@@ -10,9 +10,6 @@ font-weight: 500;
 line-height: 0px; 
 margin: 0 0 2px; 
 background-image: url('/css/collagepics.jpg'); 
-transition: background-image 10s ease-in;
-opacity: 0.4;
-  
 }
 .container {
   width: 50%;
