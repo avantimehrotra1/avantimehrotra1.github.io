@@ -11,6 +11,13 @@ line-height: 0px;
 margin: 0 0 2px; 
 }
 
+html {
+  background: url(css/collagepics.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 .container {
   width: 50%;
   margin: 0 auto;
