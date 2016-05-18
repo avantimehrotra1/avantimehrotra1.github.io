@@ -45,7 +45,7 @@ a:after {
   position: absolute;
   left: 0px;
   bottom: -1px;
-  background-color: rgb(255,135,164);
+  background-color: rgb(255,135,180);
   width: 0%;
   height: 2px;
   transition: 0.3s
@@ -57,7 +57,7 @@ a:hover:after {
 hr {
   height: .9rem;
   width: 0%;
-  background:  rgb(255,135,164);
+  background:  rgb(255,135,180);
   border: none;
   transition: .3s;
 }
