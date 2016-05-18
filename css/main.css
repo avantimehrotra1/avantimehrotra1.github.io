@@ -9,15 +9,9 @@ font-size: 14px;
 font-weight: 300; 
 line-height: 0px; 
 margin: 0 0 2px; 
+background: url(https://http://avantimehrotra1.github.io/Documents/CS Side Projects/Website/collagepics.jpg);
 }
 
-html {
-  background: url(css/collagepics.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
 .container {
   width: 50%;
   margin: 0 auto;
