@@ -9,7 +9,9 @@ font-size: 16px;
 font-weight: 500; 
 line-height: 0px; 
 margin: 0 0 2px; 
+height: 100%;
 background-image: url('/css/collagepics.jpg'); 
+background-size: cover;
 }
 .container {
   width: 50%;
