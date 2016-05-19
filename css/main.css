@@ -9,8 +9,14 @@ font-size: 16px;
 font-weight: 500; 
 line-height: 0px; 
 margin: 0 0 2px; 
-background-image: url('/css/collagepics.jpg'); 
-background-size: cover;
+}
+
+html { 
+  background: url('/css/collagepics.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .container {
   width: 50%;
