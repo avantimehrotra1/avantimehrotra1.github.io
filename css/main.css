@@ -54,8 +54,8 @@ a:after {
   bottom: -1px;
   background-color: rgb(255,86,117);
   width: 0%;
-  height: 2px;
-  transition: 0.3s
+  height: 1px;
+  transition: 0.1s
 }
 
 a:hover:after { 
