@@ -13,13 +13,6 @@ margin: 0 0 2px;
 background-color: rgb(0,0,0);
 }
 
-.centered {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  margin-top: -50px;
-  margin-left: -100px;
-}
 
 /*html { 
   background: url('/css/collagepics.jpg') no-repeat center center fixed; 
@@ -31,6 +24,10 @@ background-color: rgb(0,0,0);
 .container {
   width: 50%;
   margin: 0 auto;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%) }
 }
 
 div {
