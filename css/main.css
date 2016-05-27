@@ -67,6 +67,7 @@ hr {
 }
 
 .NavigationBar {
-  float = left;
-  display = inline;
+  float:; left;
+  display: inline;
+  text-align: "center";
 }
