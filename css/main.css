@@ -68,5 +68,5 @@ hr {
 
 ul.NavigationBar {
   float: left;
-  font-size: 2 px;
+  word-spacing: 0 px;
 }
