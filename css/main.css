@@ -66,9 +66,9 @@ hr {
   transition: .3s;
 }
 
+li.
 ul.NavigationBar {
   float: left;
-  display: inline;
-  text-align: center;
   font-size: 10 px;
+  padding: 0 px 0 px;
 }
