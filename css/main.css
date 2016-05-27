@@ -66,9 +66,6 @@ hr {
   transition: .3s;
 }
 
-li.aboutList {
-  padding: 0 px 0 px;
-}
 ul.NavigationBar {
   float: left;
   font-size: 10 px;
