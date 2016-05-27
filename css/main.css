@@ -67,7 +67,6 @@ hr {
 }
 
 ul.NavigationBar {
-  position: absolute;
   float: left;
   display: inline;
 }
