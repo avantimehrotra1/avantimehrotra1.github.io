@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Wire+One);
+@import url(https://fonts.googleapis.com/css?family=Sacramento);
 * {
   box-sizing: border-box;
 }
@@ -6,7 +7,7 @@
 body { 
 color: #ffffff; 
 font-family: 'Wire One', sans-serif; 
-font-size: 28px; 
+font-size: 22px; 
 font-weight: 500; 
 line-height: 0px; 
 margin: 0 0 2px; 
@@ -34,7 +35,7 @@ a {
   position: relative;
   display: inline-block;
   border: none;
-  width: 100px;
+  width: 75px;
   padding: .75rem 0;
   margin: 0;
   text-align: center;
@@ -46,26 +47,29 @@ a:after {
   content: "";
   display: inline-block;
   position: absolute;
-  left: 0px;
-  bottom: -2px;
+  left: 12px;
+  bottom: 0px;
   background-color: rgb(255,86,117);
   width: 0%;
   height: 1px;
-  transition: 0.1s
+  transition: 0.2s
 }
 
 a:hover:after { 
-  width: 100%;
+  width: 75%;
 }
 
 hr {
-  height: .08rem;
-  width: 0%;
-  background:  rgb(255,86,117);
   border: none;
-  transition: .3s;
 }
-
+.homePage 
+{
+  font-family: "Sacramento", cursive;
+  font-size: 80px;
+  font-weight: 100;
+  margin: 5 0 0px; 
+  padding: 1.5rem 0;
+}
 ul.NavigationBar {
   float: left;
 }
