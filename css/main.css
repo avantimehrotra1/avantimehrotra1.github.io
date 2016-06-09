@@ -112,3 +112,10 @@ ul.NavigationBar {
   position: relative;
   float: center;
 }
+
+.AboutText {
+color: black;
+font-family: 'Wire One', sans-serif; 
+font-size: 26px; 
+font-weight: 500;
+}
