@@ -7,7 +7,7 @@
 body { 
 color: #ffffff; 
 font-family: 'Wire One', sans-serif; 
-font-size: 26px; 
+font-size: 24px; 
 font-weight: 500; 
 line-height: 0px; 
 margin: 0 0 2px; 
@@ -72,5 +72,21 @@ hr {
 }
 
 ul.NavigationBar {
-  float: left;
+  float: center;
+  margin: 2 0 0px;
+  font-size: 20px;
+}
+
+.AboutTitle
+{
+  font-family: "Sacramento", cursive;
+  font-size: 100px;
+  font-weight: 100;
+  margin: 0.5 0 0px; 
+  float: center;
+}
+
+.OnAbout
+{
+  color: rgb(255,86,117);
 }
