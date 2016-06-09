@@ -101,21 +101,23 @@ ul.NavigationBar {
   color: rgb(255,86,117);
 }
 
-.AboutImage
-{
-  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6));
-  background: url('/AboutImage.jpg');
+.AboutImage {
+  background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url("/AboutImage.jpg");
   background-size: cover;
   width: 500px;
   height: 650px;
   margin: 10px 0 0 10px;
   position: relative;
-  float: center;
 }
-
-.AboutText {
-color: black;
-font-family: 'Wire One', sans-serif; 
-font-size: 26px; 
-font-weight: 500;
+.AboutText
+{
+	font-family: 'Wire One', sans-serif;
+	color: black;
+	font-size: 24px;
+	font-weight: 500px;
 }
