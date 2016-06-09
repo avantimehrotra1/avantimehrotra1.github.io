@@ -103,8 +103,8 @@ ul.NavigationBar {
 .AboutImage {
   background: 
     linear-gradient(
-      rgba(0, 0, 0, 0.6),
-      rgba(0, 0, 0, 0.6)
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
     ),
     url("/AboutImage.jpg");
   background-size: cover;
@@ -115,8 +115,8 @@ ul.NavigationBar {
 }
 .AboutText
 {
-	font-family: 'Wire One', sans-serif;
-	color: black;
-	font-size: 24px;
-	font-weight: 500px;
+  font-family: 'Wire One', sans-serif;
+  color: white bold;
+  font-size: 24px;
+  font-weight: 500px;
 }
