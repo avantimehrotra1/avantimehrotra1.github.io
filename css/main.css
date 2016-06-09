@@ -70,6 +70,12 @@ hr {
   margin: 5 0 0px; 
   padding: 1.5rem 0;
 }
+
+.Welcome
+{
+  text-align: center;
+  display: block;
+}
 ul.NavigationBar {
   float: left;
 }
