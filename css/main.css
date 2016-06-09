@@ -62,13 +62,21 @@ a:hover:after {
 hr {
   border: none;
 }
+.homePage
+{
+  margin: 1 0 0px;
+  padding: 1.5rem 0;
+}
+.AboutTitle, .BlogTitle
+{
+  margin: 0 0 0px; 
+  padding: 2.5rem 0;
+}
 .homePage, .AboutTitle, .BlogTitle
 {
   font-family: "Sacramento", cursive;
   font-size: 75px;
   font-weight: 100;
-  margin: 1 0 0px; 
-  padding: 1.5rem 0;
 }
 
 ul.NavigationBar {
