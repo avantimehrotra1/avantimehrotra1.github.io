@@ -101,16 +101,14 @@ ul.NavigationBar {
   color: rgb(255,86,117);
 }
 
-div.AboutImage
+.AboutImage
 {
-  background-image: url('/AboutImage.jpg');
-  border: 1px solid white;
-}
-
-div.transparentText
-{
-  margin: 0px;
-  background-color: #ffffff;
-  border: 1px solid white;
-  opacity: 0.6;
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6));
+  background: url('/AboutImage.jpg');
+  background-size: cover;
+  width: 500px;
+  height: 650px;
+  margin: 10px 0 0 10px;
+  position: relative;
+  float: center;
 }
