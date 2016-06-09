@@ -86,7 +86,7 @@ ul.NavigationBar {
   font-size: 20px;
 }
 
-.OnAbout, .OnBlog
+.OnAbout, .OnBlog, .OnFood, .OnProjects
 {
   color: rgb(255,86,117);
 }
