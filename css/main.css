@@ -7,11 +7,11 @@
 body { 
 color: #ffffff; 
 font-family: 'Wire One', sans-serif; 
-font-size: 24px; 
+font-size: 26px; 
 font-weight: 500; 
 line-height: 0px; 
 margin: 0 0 2px; 
-background-color: rgb(0,0,0);
+background-color: rgb(19,23,26);
 }
 
 /*html { 
@@ -73,8 +73,9 @@ hr {
 
 ul.NavigationBar {
   float: center;
-  margin: 2 0 0px;
-  font-size: 20px;
+  margin: 1 0 0px;
+  padding: 1.5rem 0;
+  font-size: 25px;
 }
 
 .AboutTitle
