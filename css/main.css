@@ -111,13 +111,11 @@ ul.NavigationBar {
   width: 500px;
   height: 650px;
   margin: 10px 0 0 10px;
-  top: 50%;
-  left: 50%;
 }
 .AboutText
 {
   font-family: 'Wire One', sans-serif;
   color: white bold;
-  font-size: 24px;
+  font-size: 30px;
   font-weight: 500px;
 }
