@@ -9,7 +9,6 @@ color: #ffffff;
 font-family: 'Wire One', sans-serif; 
 font-size: 26px; 
 font-weight: 500; 
-margin: 0 0 2px; 
 background-color: rgb(19,23,26);
 }
 
@@ -35,7 +34,7 @@ a {
   display: inline-block;
   border: none;
   width: 75px;
-padding: .75rem 0;
+padding: .1rem 0;
   margin: 0;
   text-align: center;
   text-decoration: none;
@@ -63,13 +62,12 @@ hr {
 }
 .homePage
 {
-  margin: 1 0 0px;
-  padding: 1.5rem 0;
+  margin: 0 0 0px;
+  padding: 0rem 0;
 }
 .AboutTitle, .BlogTitle, .FoodTitle, .ProjectsTitle
 {
   margin: 0 0 0px; 
-  padding: 2.0rem 0;
 }
 .homePage, .AboutTitle, .BlogTitle, .ProjectsTitle
 {
