@@ -72,10 +72,16 @@ hr {
   margin: 0 0 0px; 
   padding: 2.0rem 0;
 }
-.homePage, .AboutTitle, .BlogTitle, .FoodTitle, .ProjectsTitle
+.homePage, .AboutTitle, .BlogTitle, .ProjectsTitle
 {
   font-family: "Sacramento", cursive;
   font-size: 75px;
+  font-weight: 100;
+}
+.FoodTitle
+{
+  font-family: "Sacramento", cursive;
+  font-size: 50px;
   font-weight: 100;
 }
 
