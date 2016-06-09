@@ -103,7 +103,7 @@ ul.NavigationBar {
 
 div.AboutImage
 {
-  background: url(AboutImage.jpg);
+  background-image: url('/AboutImage.jpg');
   border: 1px solid white;
 }
 
