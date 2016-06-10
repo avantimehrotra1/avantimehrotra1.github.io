@@ -106,14 +106,15 @@ ul.NavigationBar {
     ),
     url("/AboutImage.jpg");
   background-size: cover;
-  width: 500px;
-  height: 650px;
+  width: 400px;
+  height: 550px;
   margin: 10px 0 0 10px;
 }
 .AboutText
 {
   font-family: 'Wire One', sans-serif;
-  color: white bold;
+  color: white;
+  font: bold;
   font-size: 30px;
   font-weight: 500px;
 }
