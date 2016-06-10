@@ -9,7 +9,8 @@ color: #ffffff;
 font-family: 'Wire One', sans-serif; 
 font-size: 26px; 
 font-weight: 500; 
-background-color: rgb(19,23,26);
+/*background-color: rgb(19,23,26);*/
+background-color: rgb(255,248,245);
 }
 
 /*html { 
@@ -38,7 +39,8 @@ padding: .1rem 0;
   margin: 0;
   text-align: center;
   text-decoration: none;
-  color: rgb(250,250,250);
+  /*color: rgb(250,250,250);*/
+  color: black;
 }
 
 a:after {
