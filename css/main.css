@@ -35,12 +35,11 @@ a {
   display: inline-block;
   border: none;
   width: 75px;
-padding: .1rem 0;
+  padding: .1rem 0;
   margin: 0;
   text-align: center;
   text-decoration: none;
-  /*color: rgb(250,250,250);*/
-  color: black;
+  color: rgb(40,40,55);
 }
 
 a:after {
@@ -52,7 +51,7 @@ a:after {
   background-color: rgb(255,86,117);
   width: 0%;
   height: 1px;
-  transition: 0.2s
+  transition: 0.1s
 }
 
 a:hover:after { 
@@ -80,6 +79,7 @@ hr {
 }
 .FoodTitle
 {
+  color: rgb(40,40,55);
   font-family: "Sacramento", cursive;
   font-size: 50px;
   font-weight: 100;
