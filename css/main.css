@@ -73,7 +73,7 @@ hr {
 }
 .homePage, .AboutTitle, .BlogTitle, .ProjectsTitle
 {
-  color: black;
+  color: rgb(40,40,55);
   font-family: "Sacramento", cursive;
   font-size: 75px;
   font-weight: 100;
