@@ -10,7 +10,7 @@ font-family: 'Wire One', sans-serif;
 font-size: 26px; 
 font-weight: 500; 
 /*background-color: rgb(19,23,26);*/
-background-color: rgb(255,248,245);
+background-color: rgb(255,250,250);
 }
 
 /*html { 
@@ -73,6 +73,7 @@ hr {
 }
 .homePage, .AboutTitle, .BlogTitle, .ProjectsTitle
 {
+  color: black;
   font-family: "Sacramento", cursive;
   font-size: 75px;
   font-weight: 100;
