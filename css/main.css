@@ -99,8 +99,8 @@ ul.NavigationBar {
 }
 
 .AboutImage {
-
   background: url("/css/collagepics.jpg");
+  background-size: cover;
   width: 400px;
   height: 550px;
   margin: 10px 0 0 10px;
