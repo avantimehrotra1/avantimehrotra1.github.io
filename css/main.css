@@ -104,7 +104,7 @@ ul.NavigationBar {
       rgba(0, 0, 0, 0.4),
       rgba(0, 0, 0, 0.4)
     ),
-    url("/AboutImage.jpg");
+    url("'/css/collagepics.jpg'");
   background-size: cover;
   width: 400px;
   height: 550px;
