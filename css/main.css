@@ -107,6 +107,7 @@ ul.NavigationBar {
 }
 .AboutText
 {
+  background: rgba(255,255,255,0.65);
   font-family: 'Wire One', sans-serif;
   color: black;
   font: bold;
