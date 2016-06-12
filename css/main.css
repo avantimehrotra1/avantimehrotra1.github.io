@@ -117,3 +117,10 @@ ul.NavigationBar {
   color: black;
   font-size: 26px;
 }
+
+.footerText1, .footerText2, .footerText3, .footerText4, .footerText5
+{
+  font-family: "Sacramento", cursive;
+  color: rgb(40, 40, 55);
+  size: 10px;
+}
