@@ -45,7 +45,7 @@ a {
 a:after {
   content: "";
   display: inline-block;
-  position: absolute;
+  position: relative;
   left: 12px;
   bottom: 0px;
   background-color: rgb(255,86,117);
