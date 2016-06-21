@@ -113,7 +113,7 @@ ul.NavigationBar {
   background: rgba(255,255,255,0.75);
   font-family: 'Wire One', sans-serif;
   position: relative;
-  bottom: -100px;
+  bottom: -75px;
   color: black;
   font-size: 26px;
 }
